@@ -1,0 +1,348 @@
+body {
+    background-color: #0b1d26;
+}
+header div {
+    color: white;
+    display: inline-block;
+}
+header {
+    position: relative;
+    top: 0px;
+}
+div.liste1 {
+    position: relative;
+    left: 470px;
+}
+div.liste1 h6 {
+    display: inline;
+    font-size: 12px;
+    margin: 30px;
+}
+div.textacc {
+    position: relative;
+    left: 940px;
+}
+div.logos1 {
+    position: relative;
+    left: 40px;
+}
+div span.ico {
+    position: relative;
+    top: 5px
+}
+div.logos1 h3 {
+    font-size: 25px;
+}
+section.parti1 {
+    background: url("../images/Slice 1.jpg") no-repeat;
+    background-size: cover;
+    height: 1400px;
+}
+section.parti1 div {
+    display: inline-block;
+    color: white;
+}
+div.social {
+    position: relative;
+    bottom: 150px;
+}
+div.follus {
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 40px;
+}
+div.insta {
+    position: relative;
+    left: -41px;
+    top: 25px;
+}
+div.twit {
+    position: relative;
+    left: -65px;
+    top: 70px;
+}
+div.Gtitre {
+    position: relative;
+    left: 80px;
+    bottom: 90px;
+}
+div.Gtitre h1 {
+    font-size: 60px;
+}
+div.trait1 {
+    position: relative;
+    left: 271px;
+    bottom: 220px;
+}
+div.trait1 h4 {
+    color: #FBD784;
+    font-size: 20px;
+}
+div.trait1 rect {
+   width: 40px;
+}
+h4 span {
+    position: relative;
+    left: 23px;
+    bottom: 4px;
+}
+div.scorll {
+    position: relative;
+    top: 160px;
+    left: 400px;
+}
+div.scorll li {
+    margin-top: 20px;
+    list-style: none;
+}
+div.scorll li.tl1{
+    position: relative;
+    right: 29px;
+}
+div.pt2{
+    position: relative;
+    left: 65px;
+    bottom: 150px;
+}
+div.pt2 rect {
+    height:140px;
+}
+div.pt1 {
+    position: relative;
+    bottom: 330px;
+    left: 72px;
+}
+div.pt1 rect{
+    height: 35px;
+}
+section.p1 {
+    color: white;
+    margin: 0px 80px 0px 80px;
+    position: relative;
+    bottom: 470px;
+}
+h1.\30 1{
+    font-size: 240px;
+    opacity: 0.2;
+}
+div.pp1 h4 {
+    font-size: 18px;
+    position: relative;
+    bottom: 340px;
+    left: 150px;
+    color: #FBD784;
+    width: 50%;
+}
+h4 svg {
+    position: relative;
+    right: 45px;
+}
+h1.what {
+    font-size: 64px;
+    position: relative;
+    bottom: 385px;
+    left: 130px;
+    width: 50%;
+}
+div.pp1 p {
+    width: 600px;
+    font-size: 28px;
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+}
+div.img1 {
+    position: relative;
+    left: 740px;
+    bottom: 1100px;
+    width: 50%;
+}
+span.read1 {
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+    font-size: 18px;
+    color: #FBD784;
+}
+span.read1 svg {
+    position: relative;
+    top: 3px;
+}
+section.p2 {
+    color: white;
+    margin: 0px 80px 0px 80px;
+    position: relative;
+    bottom: 1400px;
+}
+section.p2 p {
+    width: 500px;
+    font-size: 28px;
+}
+div.pp2 {
+    position: relative;
+    left: 770px;
+    bottom: 1250px;
+    width: 47%;
+}
+h1.\30 2 {
+    font-size: 240px;
+    opacity: 0.2;
+    position: relative;
+    left: 660px;
+    bottom: 900px;
+    width: 10%;
+}
+div.pp2 h4 {
+    font-size: 18px;
+    color: #FBD784;
+    position: relative;
+    left: 22px;
+}
+div.pp2 h1 {
+    font-size: 64px;
+}
+span.read2 {
+    font-size: 18px;
+    color: #FBD784;
+}
+span.read2 svg {
+    position: relative;
+    top: 3px;
+}
+section.p3 {
+    color: white;
+    margin: 0px 80px 0px 80px;
+    position: relative;
+    bottom: 2650px;
+}
+h1.\30 3{
+    font-size: 240px;
+    opacity: 0.2;
+}
+div.pp3 h4 {
+    font-size: 18px;
+    position: relative;
+    bottom: 340px;
+    left: 150px;
+    color: #FBD784;
+    width: 50%;
+}
+h4 svg {
+    position: relative;
+    right: 45px;
+}
+div.pp3 h1 {
+    font-size: 64px;
+    position: relative;
+    bottom: 385px;
+    left: 130px;
+    width: 50%;
+}
+div.pp3 p {
+    width: 600px;
+    font-size: 28px;
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+}
+div.img03 {
+    position: relative;
+    left: 740px;
+    bottom: 1050px;
+    width: 50%;
+}
+span.read3 {
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+    font-size: 18px;
+    color: #FBD784;
+}
+span.read3 svg {
+    position: relative;
+    top: 3px;
+}
+div.img1:hover {
+    transform: scale (1.5)
+}
+footer div {
+    display: inline-block;
+}
+
+main {
+    height:3000px 
+}
+div.pp3 {
+    height: 300px;
+}
+footer {
+    position: relative;
+    bottom: 2600px;
+    color: white;
+    margin: 0px 80px 0px 80px;
+}
+.f2, .f3 {
+    margin-left: 200px;
+    position: relative;
+    right: -200px;
+}
+.f2 ul, .f3 ul {
+    list-style: none;
+    position: relative;
+    right: 40px;
+}
+.f2 li, .f3 li {
+    margin-top: 20px;
+    font-size: 18px;
+}
+.f2 a, .f3 a {
+    text-decoration-line: none;
+    color: white;
+}
+.f3 {
+    position: relative;
+    bottom: 80px
+}
+.f2 h3, .f3 h3 {
+    color: #FBD784;
+    font-size: 24px;
+}
+.f2 a:hover, .f3 a:hover{
+    text-decoration: underline;
+}
+.f1 h3 {
+    font-size: 32px;
+}
+.f1 p {
+  font-size: 18px;
+}
+.f1 h3, .f1 p {
+    position: relative;
+    bottom: 80px;
+}
+.f1 span {
+    font-size: 18px;
+    opacity: 0.5;
+}
+section.parti1 a {
+    text-decoration-line: none;
+    color: white;
+}
+div.liste1 a:hover, div.textacc a:hover, div.scorll li a:hover {
+    color: #FBD784;
+    text-decoration: underline;
+}
+.twit:hover, .insta:hover {
+    transform: scale(1.9)
+}
+img:hover{
+    opacity: 1;
+    border: solid #FBD784 1px;
+}
+img {
+    opacity: 0.5;
+}
+.read1 a, .read2 a, .read3 a {
+    color: #FBD784;
+}
+
